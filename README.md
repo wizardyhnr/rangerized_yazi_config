@@ -4,7 +4,7 @@ config and plugins to make che (or dual-yazi) behaves like ranger
 
 ## Motivation
 
-Ranger is slow when loading files on NAS. Tried che (a dual pane fork of dual-yazi, which is fork of yazi), it is fast. 
+Ranger is slow when loading files on NAS. Tried che (fork of dual-yazi, which is dual pane fork of yazi), it is fast. 
 
 This repo contains my config and plugins to make operation of che more close to Ranger. It is compatible with dual-yazi and most compatible with yazi (just dual-pane operation may not work).
 
