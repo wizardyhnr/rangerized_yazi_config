@@ -31,7 +31,6 @@ allow_remote_control yes
 ## Usage
 
 Press "r", "r" to open a kitty window on top of che with prefilled selected files. 
-<img width="473" height="32" alt="rr" src="https://github.com/user-attachments/assets/c4e5435c-59e1-423c-a7dd-3e85a8099958" />
 
 Press "r", "b" to open a kitty window for user to run cmd.
 
