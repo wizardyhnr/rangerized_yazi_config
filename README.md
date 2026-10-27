@@ -28,4 +28,12 @@ Copy content under che to Yazi or equivalent's config folder.
 In kitty's config file, add following:
 allow_remote_control yes
 
+## Usage
+
+Press "r", "r" to open a kitty window on top of che with prefilled selected files. 
+
+Press "r", "b" to open a kitty window for user to run cmd.
+
+Press "q", "F5", "F6", che will ask user to confirm first.
+
 Done
