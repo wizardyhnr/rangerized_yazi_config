@@ -19,7 +19,7 @@ Not aim to achivie all core behaviors of Ranger. In stead, three main goals are 
 ## Prerequisite:
 
 Yazi, I personally prefer dual pane FM, so che or dual-yazi are my choice.  
-Kitty terminal. Kitty has convienent function to prefill bash with text. Implementing this in standard Bash is not easy and not very elegant.  
+Kitty terminal. Kitty has convienent function to prefill bash with text and overlay on che window. Implementing this in standard Bash is not easy and not very elegant.  
 
 ## Install
 
